@@ -1,8 +1,5 @@
 /*comentario @Sergio10G */
 
-
-
-
         /* Cargar las variables */
         
 :root {
@@ -10,10 +7,35 @@
     --color-oscuro: blue;
 }
 
+ul {
+    list-style: none;
+}
+
+nav {
+    text-align: center;
+    font-size: 30px;
+}
+
 .logo {
     text-align: center;
     color: var(--color-oscuro);
 }
 
+.intro {
+    color: green;
+    text-align: center;
+}
 
+.section-title {
+    color: purple;
+}
 
+.footer-comp {
+    background-color: green;
+    text-align: center;
+}
+
+.product {
+    margin: 100px;
+    color: orangered;
+}
