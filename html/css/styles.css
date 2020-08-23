@@ -10,16 +10,10 @@
     --color-oscuro: blue;
 }
 
-section {
-    display: block;
-}
-
-logo {
+.logo {
     text-align: center;
     color: var(--color-oscuro);
 }
 
-h1, h2, h3{
-    text-align: center;
-}
+
 
